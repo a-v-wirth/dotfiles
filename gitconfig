@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexandra.von.platen@gmail.com
+	name = Alexandra Wirth
